@@ -3,12 +3,19 @@
 <h3 align="center">Tentang Diriku</h3>
 
 <p align="center">
-    Saya seorang Minecraft developer yang memiliki minat mendalam pada<br> pengembangan server, Pembuatan plugin Minecraft
-  dan kecerdasan buatan (AI).
+    Saya seorang Minecraft developer dari Indonesia yang memiliki minat mendalam pada<br> pengembangan server, Pembuatan plugin Minecraft, Pembuatan Website dan kecerdasan buatan (AI).
     <br />
-    Aku sekarang bekerja di <a href="https://nekosphere.netlify.app"><strong>@Nekosphere ID</strong></a>
-    dan menjadi pengurus di <a href="https://discord.gg/uH4z7gUNXD"><strong>Discord Server Nekosphere</strong></a>.
+    Sekarang Saya sedang bekerja di <a href="https://nekosphere.netlify.app"><strong>@Nekosphere ID</strong></a>
+    dan menjadi Developer sekaligus Founder <a href="https://discord.gg/uH4z7gUNXD"><strong>Discord Server Nekosphere</strong></a>.
 </p>
+<p align="center">
+		<a href="https://discord.gg/djs"><img src="https://img.shields.io/badge/Nekosphere-Discord-%237289da?logo=discord&logoColor=white" alt="Discord server" /></a>
+		<a href="https://www.youtube.com/@unfairlyris/"><img src="https://img.shields.io/badge/adriscently-Youtube-%23FF0000?logo=youtube&logoColor=white" alt="Youtube" /></a>
+		<a href="https://www.tiktok.com/@unfairlyris/"><img src="https://img.shields.io/badge/adriscently-Tiktok-white?logo=tiktok&logoColor=white" alt="Tiktok" /></a>
+		<a href="https://www.instagram.com/unfairlyris/"><img src="https://img.shields.io/badge/adriscently-Instagram-%23833AB4?logo=instagram&logoColor=white" alt="Instagram" /></a>
+		<a href="https://open.spotify.com/user/31uthbzoug5tcjzqejeesp7iefxa" ><img src="https://img.shields.io/badge/adriscently-Spotify-%231DB954?logo=spotify&logoColor=white" alt="Spotify" /></a>
+	</p>
+	<p>
 <hr />
 
 <h3 align="center">Tools and languages</h3>
