@@ -64,9 +64,9 @@
 <h3 align="center">Minecraft Image</h3>
 
 <p align="center">
-  	<a href=""><img src="https://imgur.com/9DJJdhW.png" width="240" alt="image1" /></a>
-	<a href=""><img src="https://imgur.com/xyOy1si.png" width="240" alt="image2" /></a>
-	<a href=""><img src="https://imgur.com/gdl2b96.png" width="240" alt="image3" /></a>
+  	<a href=""><img src="https://imgur.com/SMAN8Rj.png" width="240" alt="image1" /></a>
+	<a href=""><img src="https://imgur.com/n6SQ50H.png" width="240" alt="image2" /></a>
+	<a href=""><img src="https://imgur.com/z4DSd07.png" width="240" alt="image3" /></a>
 	<a href=""><img src="https://imgur.com/UjvlpcD.png" width="240" alt="image4" /></a>
 	<a href=""><img src="https://imgur.com/5APnKVk.png" width="249" alt="image5" /></a>
 </p>
