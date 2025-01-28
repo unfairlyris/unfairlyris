@@ -10,6 +10,7 @@
 </p>
 <p align="center">
 		<a href="https://discord.gg/uH4z7gUNXD" target="_blank"><img src="https://img.shields.io/badge/Nekosphere-Discord-%237289da?logo=discord&logoColor=white" alt="Discord server"  /></a>
+		<a href="https://ko-fi.com/nekosphere" target="_blank"><img src="https://img.shields.io/badge/Nekosphere-buy%20me%20coffe-white?logo=ko-fi" alt="Discord server"  /></a>
 		<a href="https://www.youtube.com/@unfairlyris/" target="_blank"><img src="https://img.shields.io/badge/adriscently-Youtube-%23FF0000?logo=youtube&logoColor=white" alt="Youtube" /></a>
 		<a href="https://www.tiktok.com/@unfairlyris/" target="_blank"><img src="https://img.shields.io/badge/adriscently-Tiktok-white?logo=tiktok&logoColor=white" alt="Tiktok" /></a>
 		<a href="https://www.instagram.com/unfairlyris/" target="_blank"><img src="https://img.shields.io/badge/adriscently-Instagram-%23833AB4?logo=instagram&logoColor=white" alt="Instagram" /></a>
