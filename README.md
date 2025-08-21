@@ -3,10 +3,10 @@
 <h3 align="center">Tentang Diriku</h3>
 
 <p align="center">
-    Saya seorang Minecraft developer dari Indonesia yang memiliki minat mendalam pada<br> pengembangan server, Pembuatan plugin Minecraft, Pembuatan Website dan kecerdasan buatan (AI).
+    Saya seorang Minecraft developer dari Indonesia yang memiliki minat menjadi expert pada bidang<br> Server Developer, Plugin Configurator, Website Maker (AI).
     <br />
-    Sekarang Saya sedang bekerja di <a href="https://nekosphere.netlify.app"><strong>@Nekosphere ID</strong></a>
-    dan menjadi Developer sekaligus Founder <a href="https://discord.gg/uH4z7gUNXD"><strong>Discord Server Nekosphere</strong></a>.
+    Sekarang Saya sedang bekerja di <a href="https://wiki.havenaria.id"><strong>Havenaria.id</strong></a>
+    dan menjadi Developer sekaligus Leader section Minecraft di <a href="https://discord.gg/uH4z7gUNXD"><strong>Haven Club</strong></a>.
 </p>
 <p align="center">
 		<a href="https://discord.gg/uH4z7gUNXD" target="_blank"><img src="https://img.shields.io/badge/Nekosphere-Discord-%237289da?logo=discord&logoColor=white" alt="Discord server"  /></a>
