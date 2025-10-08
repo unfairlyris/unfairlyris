@@ -1,15 +1,17 @@
 <p align="center">
-  	<a href=""><img src="https://i.postimg.cc/bwtCCJ0W/Cream-and-Green-Illustrative-Coming-Soon-Email-Header-600-x-100-px-600-x-150-px-550-x-150-px.png" width="1719" alt="image1" /></a>
+  	<a href=""><img src="https://i.postimg.cc/bwtCCJ0W/Cream-and-Green-Illustrative-Coming-Soon-Email-Header-600-x-100-px-600-x-150-px-550-x-150-px.png" width="1719" alt="welcome" /></a>
 </p>
 <h2 align="center"></h2>
 
-<h3 align="center">Tentang Diriku</h3>
+<p align="center">
+  	<a href=""><img src="https://i.postimg.cc/x8KdGdKB/Cream-and-Green-Illustrative-Coming-Soon-Email-Header-600-x-100-px-600-x-150-px-550-x-150-px.png" width="1719" alt="whoimai" /></a>
+</p>
 
 <p align="center">
-    Saya seorang Minecraft developer dari Indonesia yang memiliki minat menjadi expert pada bidang<br> Server Developer, Plugin Configurator, Website Creator (AI).
+    Saya (panggil saja adris) seorang Minecraft developer dari Indonesia yang memiliki minat menjadi expert pada bidang<br> Server Minecraft Developer, Plugin Configurator, Design Grafis, Cinematic Editor, Fullstack Web Developer.
     <br />
-    Sekarang saya menjadi salah satu anggota <a href="https://wiki.cybersmp.my.id"><strong>CYDEV INDONESIA</strong></a>
-    dan menjadi Developer sekaligus Founder Minecraft Server <a href="https://discord.gg/jFRqa7jXg4"><strong>CYBER SMP</strong></a>.
+    Sekarang saya salah satu anggota di <a href="https://wiki.cybersmp.my.id"><strong>CYDEV INDONESIA</strong></a>
+    dan menjadi Founder di <a href="https://discord.gg/jFRqa7jXg4"><strong>CYBER SMP</strong></a>.
 </p>
 <p align="center">
 		<a href="https://discord.gg/jFRqa7jXg4" target="_blank"><img src="https://img.shields.io/badge/Discord-Cyber_SMP-%237289da?logo=discord" alt="Discord server"  /></a>
@@ -17,53 +19,33 @@
 		<a href="https://www.tiktok.com/@unfairlyris/" target="_blank"><img src="https://img.shields.io/badge/adriscently-Tiktok-white?logo=tiktok&logoColor=white" alt="Tiktok" /></a>
 		<a href="https://www.instagram.com/unfairlyris/" target="_blank"><img src="https://img.shields.io/badge/adriscently-Instagram-%23833AB4?logo=instagram&logoColor=white" alt="Instagram" /></a>
 	</p>
-	<p>
-<hr />
-
-<h3 align="center">Tools and languages</h3>
+<h2 align="center"></h2>
 
 <p align="center">
-      <br />
-    <a title="Java" href="https://java.com/">
-        <img alt="Java" height="32px" src="https://raw.githubusercontent.com/TheBusyBiscuit/TheBusyBiscuit/master/icons/java.svg" />
-    </a>
-    &nbsp;
-    <a title="JavaScript" href="https://javascript.com/">
-        <img alt="Java Script" height="32px" src="https://raw.githubusercontent.com/TheBusyBiscuit/TheBusyBiscuit/master/icons/javascript.svg" />
-    </a>
-    &nbsp;
-    <a title="HTML" href="https://html.com/">
-        <img alt="HTML" height="32px" src="https://raw.githubusercontent.com/TheBusyBiscuit/TheBusyBiscuit/master/icons/html5.svg" />
-    </a>
-    &nbsp;
-    <a title="CSS" href="https://css.com/">
-        <img alt="CSS" height="32px" src="https://raw.githubusercontent.com/TheBusyBiscuit/TheBusyBiscuit/master/icons/css3.svg" />
-    </a>
-    &nbsp;
-    <a title="PHP" href="https://php.net/">
-        <img alt="PHP" height="32px" src="https://raw.githubusercontent.com/TheBusyBiscuit/TheBusyBiscuit/master/icons/php.svg" />
-    </a>
-    &nbsp;
-    <a title="MySQL" href="https://www.mysql.com/">
-        <img alt="MySQL" height="32px" src="https://raw.githubusercontent.com/TheBusyBiscuit/TheBusyBiscuit/master/icons/mysql.svg" />
-    </a>
-    &nbsp;
-    <a title="Discord" href="https://discord.gg/uH4z7gUNXD">
-        <img alt="Discord" height="32px" src="https://raw.githubusercontent.com/TheBusyBiscuit/TheBusyBiscuit/master/icons/discord.svg" />
-    </a>
-    &nbsp;
-    <a title="GitHub" href="https://github.com/">
-        <img alt="GitHub" height="32px" src="https://raw.githubusercontent.com/TheBusyBiscuit/TheBusyBiscuit/master/icons/github.svg" />
-    </a>
-    &nbsp;
-    <a title="Visual Studio" href="https://visualstudio.microsoft.com/">
-        <img alt="Visual Studio" height="32px" src="https://raw.githubusercontent.com/TheBusyBiscuit/TheBusyBiscuit/master/icons/visualstudio.svg" />
-    </a>
-    &nbsp;
-  
-<hr />
+  	<a href=""><img src="https://i.postimg.cc/ZRmN1Xwk/Cream-and-Green-Illustrative-Coming-Soon-Email-Header-600-x-100-px-600-x-150-px-550-x-150-px.png" width="1719" alt="tools" /></a>
+</p>
+<p align="center">
+	
+![Pterodactyl Panel](https://img.shields.io/badge/Pterodactyl_Panel-Pterodactyl_Panel?style=for-the-badge&logo=pterodactyl&logoColor=%2310539F&labelColor=white&color=%23161b22)
+![Discord Integrated](https://img.shields.io/badge/Discord_Integrated-Discord_Integrated?style=for-the-badge&logo=discord&logoColor=%235865F2&labelColor=white&color=%23161b22)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-Cloudflare?style=for-the-badge&logo=cloudflare&logoColor=%23F38020&labelColor=white&color=%23161b22)
+![OVH](https://img.shields.io/badge/OVH%20Cloud-OVH%20Cloud?style=for-the-badge&logo=ovh&logoColor=%23123F6D&labelColor=white&color=%23161b22)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-Google_Gemini?style=for-the-badge&logo=googlegemini&logoColor=%238E75B2&labelColor=white&color=%23161b22)
+![Pinterest](https://img.shields.io/badge/Pinterest-Pinterest?style=for-the-badge&logo=pinterest&logoColor=%23BD081C&labelColor=white&color=%23161b22)</br>
+![Blockbench](https://img.shields.io/badge/Blockbench-Blockbench?style=for-the-badge&logo=blockbench&logoColor=%231E93D9&labelColor=white&color=%23161b22)
+![Canva](https://img.shields.io/badge/Canva-Canva?style=for-the-badge&logo=canva&logoColor=%2300C4CC&labelColor=white&color=%23161b22)
+![CSS](https://img.shields.io/badge/CSS-CSS?style=for-the-badge&logo=css&logoColor=%23663399&labelColor=white&color=%23161b22)
+![Java Script](https://img.shields.io/badge/Java_Script-Java_Script?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=white&color=%23161b22)
+![MySQL](https://img.shields.io/badge/MySQL-MySQL?style=for-the-badge&logo=mysql&logoColor=%234479A1&labelColor=white&color=%23161b22)
+![MariaDB](https://img.shields.io/badge/MariaDB-MariaDB?style=for-the-badge&logo=mariadb&logoColor=%23003545&labelColor=white&color=%23161b22)
+![NameMC](https://img.shields.io/badge/NameMC-namemc?style=for-the-badge&logo=namemc&logoColor=%2312161A&labelColor=white&color=%23161b22)
+![YAML](https://img.shields.io/badge/yaml-yaml?style=for-the-badge&logo=yaml&logoColor=%23CB171E&labelColor=white&color=%23161b22)
 
-<h3 align="center">Minecraft Image</h3>
+<h2 align="center"></h2>
+
+<p align="center">
+  	<a href=""><img src="https://i.postimg.cc/prdcNsZj/Cream-and-Green-Illustrative-Coming-Soon-Email-Header-600-x-100-px-600-x-150-px-550-x-150-px.png" width="1719" alt="minecraft" /></a>
+</p>
 
 <p align="center">
   	<a href=""><img src="https://imgur.com/SMAN8Rj.png" width="240" alt="image1" /></a>
