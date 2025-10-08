@@ -9,10 +9,11 @@
     dan menjadi Founder di <a href="https://discord.gg/jFRqa7jXg4"><strong>CYBER SMP</strong></a>.
 </p>
 <p align="center">
-		<a href="https://discord.gg/jFRqa7jXg4" target="_blank"><img src="https://img.shields.io/badge/Discord-Cyber_SMP-%237289da?logo=discord" alt="Discord server"  /></a>
-		<a href="https://www.youtube.com/@unfairlyris/" target="_blank"><img src="https://img.shields.io/badge/adriscently-Youtube-%23FF0000?logo=youtube&logoColor=white" alt="Youtube" /></a>
-		<a href="https://www.tiktok.com/@unfairlyris/" target="_blank"><img src="https://img.shields.io/badge/adriscently-Tiktok-white?logo=tiktok&logoColor=white" alt="Tiktok" /></a>
-		<a href="https://www.instagram.com/unfairlyris/" target="_blank"><img src="https://img.shields.io/badge/adriscently-Instagram-%23833AB4?logo=instagram&logoColor=white" alt="Instagram" /></a>
+		<a href="https://discord.gg/jFRqa7jXg4" target="_blank"><img src="https://img.shields.io/badge/discord-discord?style=for-the-badge&logo=discord&logoColor=%235865F2&labelColor=white&color=%23161b22" alt="Discord server"  /></a>
+		<a href="https://www.youtube.com/@unfairlyris/" target="_blank"><img src="https://img.shields.io/badge/youtube-youtube?style=for-the-badge&logo=youtube&logoColor=%23FF0000&labelColor=white&color=%23161b22" alt="Youtube" /></a>
+		<a href="https://www.tiktok.com/@unfairlyris/" target="_blank"><img src="https://img.shields.io/badge/tiktok-tiktok?style=for-the-badge&logo=tiktok&logoColor=%23000000&labelColor=white&color=%23161b22" alt="Tiktok" /></a>
+		<a href="https://www.instagram.com/unfairlyris/" target="_blank"><img src="https://img.shields.io/badge/instagram-instagram?style=for-the-badge&logo=instagram&logoColor=%23FF0069&labelColor=white&color=%23161b22" alt="Instagram" /></a>
+		<a href="https://open.spotify.com/user/31uthbzoug5tcjzqejeesp7iefxa" target="_blank"><img src="https://img.shields.io/badge/spotify-spotify?style=for-the-badge&logo=spotify&logoColor=%231ED760&labelColor=white&color=%23161b22" alt="Instagram" /></a>
 	</p>
 <h2 align="center"></h2>
 
