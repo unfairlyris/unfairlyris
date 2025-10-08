@@ -1,5 +1,5 @@
 <p align="center">
-  	<a href=""><img src="https://i.postimg.cc/VNhSHfYd/Cream-and-Green-Illustrative-Coming-Soon-Email-Header.png" width="480" alt="image1" /></a>
+  	<a href=""><img src="https://i.postimg.cc/RCgccBtN/Cream-and-Green-Illustrative-Coming-Soon-Email-Header-600-x-100-px-600-x-150-px-550-x-150-px.png" width="650" alt="image1" /></a>
 </p>
 <h2 align="center"></h2>
 
