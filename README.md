@@ -40,9 +40,7 @@
 </p>
 	
 <p align="center">
-    Semuanya berawal dari rasa penasaran sederhana, sebuah keinginan untuk membangun dunia sendiri.<br>Perjalanan itu melahirkan lebih dari selusin server, masing-masing menjadi babak baru dalam pembelajaran.<br>Dengan membawa pelajaran berharga tersebut, lahirlah CyberSMP
-    <br />
-    Sekarang saya salah satu anggota di <a href="https://wiki.cybersmp.my.id"><strong>CYDEV INDONESIA</strong></a>
+    Semuanya berawal dari rasa penasaran sederhana, sebuah keinginan untuk membangun dunia sendiri.<br>Perjalanan itu melahirkan lebih dari selusin server, masing-masing menjadi babak baru dalam pembelajaran.<br>Dengan membawa pelajaran yang sangat berharga tersebut, Pada akhirnya lahirlah CyberSMP
 </p>
 
 <p align="center">
