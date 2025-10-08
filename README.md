@@ -6,7 +6,7 @@
     Saya seorang Minecraft developer dari Indonesia yang memiliki minat menjadi expert pada bidang<br> Server Developer, Plugin Configurator, Website Creator (AI).
     <br />
     Sekarang saya menjadi salah satu anggota <a href="https://wiki.cybersmp.my.id"><strong>CYDEV INDONESIA</strong></a>
-    dan menjadi Developer sekaligus Founder Minecraft Server <a href="https://discord.gg/uH4z7gUNXD"><strong>CYBER SMP</strong></a>.
+    dan menjadi Developer sekaligus Founder Minecraft Server <a href="https://discord.gg/jFRqa7jXg4"><strong>CYBER SMP</strong></a>.
 </p>
 <p align="center">
 		<a href="https://discord.gg/jFRqa7jXg4" target="_blank"><img src="https://img.shields.io/badge/Discord-Cyber_SMP-%237289da?logo=discord" alt="Discord server"  /></a>
