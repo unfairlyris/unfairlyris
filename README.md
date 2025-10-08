@@ -37,7 +37,7 @@
 <h2 align="center"></h2>
 
 <p align="center">
-  	<a href=""><img src="https://i.postimg.cc/prdcNsZj/Cream-and-Green-Illustrative-Coming-Soon-Email-Header-600-x-100-px-600-x-150-px-550-x-150-px.png" width="1719" alt="minecraft" /></a>
+  	<a href=""><img src="https://i.postimg.cc/sfKBmsND/Cream-and-Green-Illustrative-Coming-Soon-Email-Header-600-x-100-px-600-x-150-px-550-x-150-px.png" width="1719" alt="minecraft" /></a>
 </p>
 	
 <p align="center">
@@ -45,13 +45,12 @@
 </p>
 
 <p align="center">
-  	<a href=""><img src="https://imgur.com/SMAN8Rj.png" width="240" alt="image1" /></a>
-	<a href=""><img src="https://imgur.com/n6SQ50H.png" width="240" alt="image2" /></a>
-	<a href=""><img src="https://imgur.com/z4DSd07.png" width="240" alt="image3" /></a>
-	<a href=""><img src="https://imgur.com/UjvlpcD.png" width="240" alt="image4" /></a>
-	<a href=""><img src="https://imgur.com/5APnKVk.png" width="249" alt="image5" /></a>
-</p>
+  	<a href=""><img src="https://i.postimg.cc/J0Wz7d0b/Cream-and-Green-Illustrative-Coming-Soon-Email-Header-600-x-100-px-600-x-150-px-550-x-150-px.png" width="1719" alt="cybersmp" />
+</a>
 
 <p align="center">
-    Created by adris ❤️
+  	<a href=""><img src="https://i.postimg.cc/zDMk7CMf/Cream-and-Green-Illustrative-Coming-Soon-Email-Header-600-x-100-px-600-x-150-px-550-x-150-px.png" width="1719" alt="end" /></a>
+	
+<p align="center">
+    Dibuat oleh adris demgam penuh cinta ❤️
 </p>
