@@ -37,20 +37,8 @@
 <h2 align="center"></h2>
 
 <p align="center">
-  	<a href=""><img src="https://i.postimg.cc/sfKBmsND/Cream-and-Green-Illustrative-Coming-Soon-Email-Header-600-x-100-px-600-x-150-px-550-x-150-px.png" width="1719" alt="minecraft" /></a>
-</p>
-	
-<p align="center">
-    Semuanya berawal dari rasa penasaran sederhana, sebuah keinginan untuk membangun dunia sendiri.<br>Perjalanan itu melahirkan lebih dari selusin server, masing-masing menjadi babak baru dalam pembelajaran.<br>Dengan membawa pelajaran yang sangat berharga tersebut, Pada akhirnya lahirlah CyberSMP
-</p>
-
-<p align="center">
-  	<a href=""><img src="https://i.postimg.cc/J0Wz7d0b/Cream-and-Green-Illustrative-Coming-Soon-Email-Header-600-x-100-px-600-x-150-px-550-x-150-px.png" width="1719" alt="cybersmp" />
-</a>
-
-<p align="center">
   	<a href=""><img src="https://i.postimg.cc/zDMk7CMf/Cream-and-Green-Illustrative-Coming-Soon-Email-Header-600-x-100-px-600-x-150-px-550-x-150-px.png" width="1719" alt="end" /></a>
 	
 <p align="center">
-    Dibuat oleh adris demgam penuh cinta ❤️
+    Created with ❤️ by unfairlyris
 </p>
