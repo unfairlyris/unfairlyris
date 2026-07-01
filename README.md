@@ -1,8 +1,4 @@
 <p align="center">
-  	<a href=""><img src="https://i.postimg.cc/x8KdGdKB/Cream-and-Green-Illustrative-Coming-Soon-Email-Header-600-x-100-px-600-x-150-px-550-x-150-px.png" width="1719" alt="whoimai" /></a>
-</p>
-
-<p align="center">
     Saya (panggil saja adris) seorang Minecraft developer dari Indonesia yang memiliki minat menjadi expert pada bidang<br> Server Minecraft Developer, Plugin Configurator, Design Grafis, Cinematic Editor, Fullstack Web Developer.
     <br />
     Sekarang saya salah satu anggota di <a href="https://wiki.cybersmp.my.id"><strong>CYDEV INDONESIA</strong></a>
@@ -17,9 +13,6 @@
 	</p>
 <h2 align="center"></h2>
 
-<p align="center">
-  	<a href=""><img src="https://i.postimg.cc/ZRmN1Xwk/Cream-and-Green-Illustrative-Coming-Soon-Email-Header-600-x-100-px-600-x-150-px-550-x-150-px.png" width="1719" alt="tools" /></a>
-</p>
 <p align="center">
 	
 ![Pterodactyl Panel](https://img.shields.io/badge/Pterodactyl_Panel-Pterodactyl_Panel?style=for-the-badge&logo=pterodactyl&logoColor=%2310539F&labelColor=white&color=%23161b22)
